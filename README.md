@@ -5,6 +5,8 @@
 
 ### An example database for an E-Commerce application.
 
+![image](https://github.com/Austin-Marlatt/E-Commerce-Back-End/blob/main/Develop/images/Insomnia.png)
+
 ## Table of Contents
 
 * #### [Installation](#installation)
@@ -35,6 +37,10 @@ npm i
   * `http://localhost:3001/api/categories`
   * `http://localhost:3001/api/products`
   * `http://localhost:3001/api/tags`
+
+## Video Demo
+https://github.com/Austin-Marlatt/E-Commerce-Back-End/assets/148661094/c337bbe4-705c-4335-888a-650816011949
+
 
 ## Have Questions?
 
