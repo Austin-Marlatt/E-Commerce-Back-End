@@ -1,3 +1,5 @@
+// Provides seed data for the ProductTag Table
+
 const { ProductTag } = require('../models');
 
 const productTagData = [

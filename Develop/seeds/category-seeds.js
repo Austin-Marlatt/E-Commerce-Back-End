@@ -1,3 +1,5 @@
+// Provides seed data for the Categories Table
+
 const { Category } = require('../models');
 
 const categoryData = [
